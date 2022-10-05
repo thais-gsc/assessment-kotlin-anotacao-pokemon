@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940897505593",
+    "project_id": "assessment-thais",
+    "storage_bucket": "assessment-thais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940897505593:android:96780e7fef2d231a9ed8e8",
+        "android_client_info": {
+          "package_name": "com.example.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940897505593-n4j4oldsvb2umgl0gk8g28vm5d57lgrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5zMEoLWRoYezuBntNcti3IgGil0UWiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940897505593-n4j4oldsvb2umgl0gk8g28vm5d57lgrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

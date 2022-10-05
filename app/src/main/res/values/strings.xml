@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="titulo_app">Pokémon Go Assistant</string>
+    <string name="descricao">Registre os momentos e informações de seus pokémons!</string>
+    <string name="email_cadastro">E-mail</string>
+    <string name="senha_cadastro">Senha</string>
+    <string name="novo_cadastro">Cadastre-se ou entre com uma conta já existente</string>
+    <string name="cadastrar">Cadastrar-se</string>
+    <string name="login">Fazer login</string>
+    <string name="pokeball">pokeball</string>
+    <string name="anotacao">Nova anotação</string>
+    <string name="anuncios">Remover anúncios</string>
+    <string name="logout">Fazer logout</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="salvar">Salvar anotação</string>
+    <string name="titulo_pokemon">Escolha qual pokémon será registrado</string>
+    <string name="btnDeletar">Deletar</string>
+    <string name="btnEditar">Editar</string>
+</resources>
